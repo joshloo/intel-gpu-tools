@@ -1,0 +1,93 @@
+brw_eu_compact.lo: brw_eu_compact.c /usr/include/stdc-predef.h \
+ /usr/include/string.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h \
+ /usr/lib64/gcc/x86_64-poky-linux/5.2.0/include/stddef.h \
+ /usr/include/xlocale.h /usr/include/bits/string.h \
+ /usr/include/bits/string2.h /usr/include/endian.h \
+ /usr/include/bits/endian.h /usr/include/bits/byteswap.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/bits/byteswap-16.h /usr/include/stdlib.h brw_compat.h \
+ brw_context.h /usr/lib64/gcc/x86_64-poky-linux/5.2.0/include/stdbool.h \
+ /usr/include/stdio.h /usr/include/libio.h /usr/include/_G_config.h \
+ /usr/include/wchar.h \
+ /usr/lib64/gcc/x86_64-poky-linux/5.2.0/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/bits/stdio.h brw_structs.h \
+ /usr/lib64/gcc/x86_64-poky-linux/5.2.0/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h brw_eu.h brw_defines.h \
+ brw_reg.h /usr/include/assert.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/string.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/lib64/gcc/x86_64-poky-linux/5.2.0/include/stddef.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/bits/string.h:
+
+/usr/include/bits/string2.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/bits/byteswap.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/bits/byteswap-16.h:
+
+/usr/include/stdlib.h:
+
+brw_compat.h:
+
+brw_context.h:
+
+/usr/lib64/gcc/x86_64-poky-linux/5.2.0/include/stdbool.h:
+
+/usr/include/stdio.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/usr/lib64/gcc/x86_64-poky-linux/5.2.0/include/stdarg.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/include/bits/sys_errlist.h:
+
+/usr/include/bits/stdio.h:
+
+brw_structs.h:
+
+/usr/lib64/gcc/x86_64-poky-linux/5.2.0/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/bits/wchar.h:
+
+brw_eu.h:
+
+brw_defines.h:
+
+brw_reg.h:
+
+/usr/include/assert.h:

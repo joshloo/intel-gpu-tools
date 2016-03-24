@@ -1,0 +1,10 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: intel-gen4asm
+Description: An assembler compiler for the Intel 965+ Chipset
+Version: 1.14
+Libs:
+Cflags:

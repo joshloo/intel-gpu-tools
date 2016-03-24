@@ -1,0 +1,38 @@
+intel_renderstate_gen9.o: intel_renderstate_gen9.c \
+ /usr/include/stdc-predef.h intel_renderstate.h intel_batchbuffer.h \
+ /usr/lib64/gcc/x86_64-poky-linux/5.2.0/include/stdint.h \
+ /usr/include/stdint.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h /usr/include/bits/wchar.h \
+ ../../lib/gen9_render.h ../../lib/gen8_render.h ../../lib/gen6_render.h \
+ ../../lib/intel_reg.h
+
+/usr/include/stdc-predef.h:
+
+intel_renderstate.h:
+
+intel_batchbuffer.h:
+
+/usr/lib64/gcc/x86_64-poky-linux/5.2.0/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/include/bits/wchar.h:
+
+../../lib/gen9_render.h:
+
+../../lib/gen8_render.h:
+
+../../lib/gen6_render.h:
+
+../../lib/intel_reg.h:

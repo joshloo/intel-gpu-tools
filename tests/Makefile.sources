@@ -95,6 +95,7 @@ TESTS_progs_M = \
 	kms_pipe_color \
 	kms_pipe_crc_basic \
 	kms_plane \
+	kms_planeblend \
 	kms_psr_sink_crc \
 	kms_render \
 	kms_rotation_crc \
